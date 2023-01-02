@@ -91,17 +91,6 @@ header{
 	}
 }
 
-.img_logo{
-    width: 230px;
-    height: 230px;
-    margin: 50px;
-    border-radius: 50%;
-    border: 5px solid rgb(0,150,255);
-    box-shadow: 7px 7px 10px rgba(0,150,255,0.7);
-    background-image: url("avatar.jpg");
-    background-size: cover;
-}
-
 .container h1{
     position: absolute;
     top: 40vh;
